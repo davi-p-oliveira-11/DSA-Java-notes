@@ -16,7 +16,7 @@ Think of it like a **stack of plates** — you add new plates on top, and you re
         | `peek()` | View the top element without removing it | `stack.peek()` |
         | `isEmpty()` | Check if the stack is empty | `stack.isEmpty()` |
         | `size()` | Returns number of elements | `stack.size()` |
-        
+
  */
 
 
